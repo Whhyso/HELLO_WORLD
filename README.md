@@ -1,2 +1,2 @@
-# HELLO_WORLD
+# Hello world
 Test site
